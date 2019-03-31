@@ -1,0 +1,4 @@
+# no .a files
+*.a
+# no .o files
+*.o
